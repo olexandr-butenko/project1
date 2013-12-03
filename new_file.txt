@@ -1,0 +1,86 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="uk-ua" lang="uk-ua" > 
+<head>
+	<meta name="robots" content="index, follow" />
+	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+	<title>Вас вітає веб-студія Uni-Pro! Git!</title>
+	<meta name="keywords" content="uni-pro, створення сайтів, веб-сайти, веб-сайт, сайт, дизайн, сторінка, розробка, складний сайт, програмування, інтерент магазин, каталог, візитка, web, website, web-development, outsourcing, design, php, smarty, ajax, javascript, html, xhtml, dhtml, mysql" />
+	<meta name="description" content="Uni-Pro - створення веб-сайтів під ключ. Дизайн, програмування, розробка он-лайн додатків. Забезпечення повноцінного, комплексного, якісного представництва бізнесу клієнтів в мережі Інтернет" /> 
+
+	<style>
+		body {
+			font-family: Tahoma, Verdana, Arial, sans-serif;
+			line-height: 1.5em;
+			margin: 0;
+			padding: 0;
+			font-size: 14px;
+			color: #777;
+			background: #fff;
+		}
+		a {
+			color: #1D67A4;
+		}
+		#to_start {
+			display: block;
+			width: 330px;
+			height: 50px;
+			
+		}
+		span#big {
+			 font-size: 32px;
+			 color: #444;
+			 letter-spacing: 4px;
+			 padding-left: 2px;
+			 line-height: 40px;
+		}
+		div#why {
+			display: none;
+			width: 500px;
+			height: 50px;
+			text-align: left;
+		}
+		.why {
+			cursor: pointer;
+			vertical-align: 5px;
+			font-size: 8px;
+		}
+		div#why ul li{
+			list-style: square;
+			padding: 5px 0 5px 0;
+		}
+		h1 {
+			font-size: 28px;
+            line-height: 1.5em;
+		}
+        h3 {
+            font-size: 18px;
+            line-height: 1.5em;
+        }
+	</style>
+</head>
+
+<body class="chrome" style = "text-align: center;">
+
+		<br/><br/><br/><br/>
+		<img src="galeon.png">
+        <br/><br/><br/>
+		<h1>Вас вітає веб-студія Uni-Pro!</h1>
+        <h3>На даний момент студія не потребує нових замовлень <br/> зв'язку з наявністю достатньої кількості проектів. </h3>
+        <p>Якщо Ви всеж хочете запропонувати нам проект і працювати саме з нами - пишіть сюди project [at] uni-pro.com.ua</p>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8434744-5']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+</body>
+</html> 
