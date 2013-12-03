@@ -4,7 +4,7 @@
 <head>
 	<meta name="robots" content="index, follow" />
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-	<title>Вас вітає веб-студія Uni-Pro!</title>
+	<title>Вас вітає веб-студія Uni-Pro! Git!</title>
 	<meta name="keywords" content="uni-pro, створення сайтів, веб-сайти, веб-сайт, сайт, дизайн, сторінка, розробка, складний сайт, програмування, інтерент магазин, каталог, візитка, web, website, web-development, outsourcing, design, php, smarty, ajax, javascript, html, xhtml, dhtml, mysql" />
 	<meta name="description" content="Uni-Pro - створення веб-сайтів під ключ. Дизайн, програмування, розробка он-лайн додатків. Забезпечення повноцінного, комплексного, якісного представництва бізнесу клієнтів в мережі Інтернет" /> 
 
